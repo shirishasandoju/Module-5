@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "655ef7e6f4e5cd8112441eeb"
+  },
+  "title": "photo 1",
+  "description": "sunset view",
+  "image_url": "photo1.jpg"
+},{
+  "_id": {
+    "$oid": "655ef7e6f4e5cd8112441eec"
+  },
+  "title": "photo 2",
+  "description": "Beach view",
+  "image_url": "photo2.jpg"
+},{
+  "_id": {
+    "$oid": "655ef7e6f4e5cd8112441eee"
+  },
+  "title": "photo 3",
+  "description": "Mountain view",
+  "image_url": "photo3.jpg"
+}]
