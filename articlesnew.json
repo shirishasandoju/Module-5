@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "655ee4fdf4e5cd8112441ee5"
+  },
+  "title": "Article 1",
+  "content": "MongoDB",
+  "category": "tech",
+  "article_id": 12
+},{
+  "_id": {
+    "$oid": "655ee785f4e5cd8112441ee6"
+  },
+  "title": "Article 2",
+  "content": "Cricket",
+  "category": "Sports",
+  "article_id": 34
+},{
+  "_id": {
+    "$oid": "655ee7b3f4e5cd8112441ee7"
+  },
+  "title": "Article 3",
+  "content": "Melody",
+  "category": "Music",
+  "article_id": 56
+}]
